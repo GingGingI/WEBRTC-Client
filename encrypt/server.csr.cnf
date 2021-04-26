@@ -1,0 +1,14 @@
+[req]
+default_bits = 2048
+prompt = no
+default_md = sha256
+distinguished_name = dn
+
+[dn]
+C=KR
+ST=Seoul
+L=Gangbuk-Gu
+O=asdf
+OU=asdf
+emailAddress=asdf@gmail.com
+CN = localhost
